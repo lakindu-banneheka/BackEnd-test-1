@@ -1,0 +1,8 @@
+There are thre type of modules
+    1.model export
+    2.bulid in modules // pree instrall with node
+        2.1.fs    // is a populer one {
+            allow to read the file system
+        }
+        2.2.http  // also a populer module {we are use this }
+    3.npm 
